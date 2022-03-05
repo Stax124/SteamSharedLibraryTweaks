@@ -68,7 +68,7 @@ Have you ever played a game that your friend shared with you via Steam Family Sh
 
 ### Installation
 
-Download the latest version from releases page: [https://example.com](https://example.com)
+Download the latest version from releases page: [https://github.com/Stax124/SteamSharedLibraryTweaks/releases](https://github.com/Stax124/SteamSharedLibraryTweaks/releases)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
